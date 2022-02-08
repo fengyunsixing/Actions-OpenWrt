@@ -66,15 +66,6 @@ CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-vssr=y
 CONFIG_PACKAGE_luci-app-vlmcsd=y
 CONFIG_PACKAGE_luci-app-qosv4=y
-CONFIG_PACKAGE_luci-app-passwall=y
-CONFIG_PACKAGE_luci-i18n-passwall-zh-cn=y
-CONFIG_PACKAGE_luci-app-ddns=y
-CONFIG_PACKAGE_luci-i18n-ddns-zh-cn=y
-CONFIG_PACKAGE_luci-app-easymesh	=y
-CONFIG_PACKAGE_luci-i18n-easymesh-zh-cn=y
-CONFIG_PACKAGE_ddns-scripts=y
-CONFIG_PACKAGE_ddns-scripts_aliyun=y
-CONFIG_PACKAGE_ddns-scripts_dnspod=y
 CONFIG_PACKAGE_wol=y
 EOF
 
