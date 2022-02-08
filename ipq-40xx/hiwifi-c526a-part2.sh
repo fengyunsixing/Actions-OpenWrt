@@ -76,7 +76,6 @@ CONFIG_PACKAGE_ddns-scripts=y
 CONFIG_PACKAGE_ddns-scripts_aliyun=y
 CONFIG_PACKAGE_ddns-scripts_dnspod=y
 CONFIG_PACKAGE_wol=y
-
 EOF
 
 # 常用软件 默认已启用
